@@ -9,5 +9,9 @@ Upstage AI Lab 3기 ML 강의의 학습을 바탕으로 머신러닝 프로젝�
 <img src="https://github.com/SUNGMYEONGGI/image/blob/main/AMEX-Evaluaion-Metrix.png?raw=true" width="900">
 
 ## Submission
-- CatBoost
-- XGBoost
+- [CatBoost](https://github.com/SUNGMYEONGGI/ML-project-to-fastcampus/tree/main/CatBoost)
+- [XGBoost](https://github.com/SUNGMYEONGGI/ML-project-to-fastcampus/tree/main/XGBoost)
+
+# Reference & Link
+- [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+- https://www.kaggle.com/competitions/amex-default-prediction/discussion/327138

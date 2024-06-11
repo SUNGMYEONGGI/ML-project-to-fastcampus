@@ -17,4 +17,4 @@
   - Private Score: 0.
 
 # Reference & Link
-- [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+- https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793
