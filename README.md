@@ -11,6 +11,7 @@ Upstage AI Lab 3기 ML 강의의 학습을 바탕으로 머신러닝 프로젝�
 ## Submission
 - [CatBoost](https://github.com/SUNGMYEONGGI/ML-project-to-fastcampus/tree/main/CatBoost)
 - [XGBoost](https://github.com/SUNGMYEONGGI/ML-project-to-fastcampus/tree/main/XGBoost)
+- [LightGBM](https://github.com/SUNGMYEONGGI/ML-project-to-fastcampus/tree/main/LGBM)
 
 # Reference & Link
 - [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)

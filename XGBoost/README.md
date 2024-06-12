@@ -9,8 +9,8 @@
   - Private Score: 0.78558
 
 - 2nd submission
-  - Public Score: 0.
-  - Private Score: 0.
+  - Public Score: 0.76225
+  - Private Score: 0.77557
 
 - 3nd submission
   - Public Score: 0.
