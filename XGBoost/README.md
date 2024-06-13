@@ -13,8 +13,12 @@
   - Private Score: 0.77557
 
 - 3nd submission
-  - Public Score: 0.
-  - Private Score: 0.
+  - Public Score: 0.77455
+  - Private Score: 0.78297
+
+- 4th submission
+  - Public Score: 0.78133
+  - Private Score: 0.79000
 
 # Reference & Link
 - https://www.kaggle.com/code/cdeotte/xgboost-starter-0-793

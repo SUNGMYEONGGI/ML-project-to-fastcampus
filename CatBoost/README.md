@@ -10,12 +10,12 @@
   - Private Score: 0.78789
 
 - 2nd submission
-  - Public Score: 0.
-  - Private Score: 0.
+  - Public Score: 0.77953
+  - Private Score: 0.78892
 
 - 3nd submission
-  - Public Score: 0.
-  - Private Score: 0.
+  - Public Score: 0.77934
+  - Private Score: 0.78879
 
 # Reference & Link
 - https://www.kaggle.com/code/huseyincot/amex-catboost-0-793
