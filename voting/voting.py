@@ -10,7 +10,7 @@ def ensemble_two_file(file1_path, file2_path):
     df1['prediction'] = (df1['prediction'] + df2['prediction']) / 2
 
     # 최종 제출 파일 저장
-    output_path = 'ensemble_two_submission(soft).csv'
+    output_path = 'ensemble_catboost(label&median)+XGBoost(OneHot&15%_Median).csv'
     df1.to_csv(output_path, index=False)
 
     print(f"Final submission file saved to {output_path}")
@@ -32,7 +32,9 @@ def ensemble_three_file(file1_path, file2_path, file3_path):
     print(f"Final submission file saved to {output_path}")
  
    
-file1_path = '.csv'
-file2_path = '.csv'
-ensemble_two_file(file1_path, file2_path)
+file1_path = 'data/submission_catboost(OneHot&zero).csv'
+file2_path = 'data/submission_catboost(label&median).csv'
+file3_path = 'data/submission_XGBoost(LabelEncode&XGB).csv'
+file4_path = 'data/submission_XGBoost(OneHot&15%_Median).csv'
+ensemble_two_file(file2_path, file4_path)
 
